@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* #552B7F */
+/* header #1f2937 */
 
 /* Vue Router class to apply css to RouterLink elements */
 .router-link-exact-active {
-    color: #2C87D7;
-    /* font-size: 30px; */
+    background:   rgb(17 24 39);
 }
+
