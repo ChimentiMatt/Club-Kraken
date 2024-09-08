@@ -1,10 +1,10 @@
 <template>
-    <div class="flex flex-col mt-[10rem] mb-[10rem] text-center text-[2rem]">
+    <div class="flex flex-col mt-[3rem] p-2 md:mt-[10rem] mb-[10rem] text-center text-[2rem]">
   
         <h1>We are a non-profit organization, so donations keep us running and kids in the pool.</h1>
    
         <div class="flex justify-center mt-[5rem]">
-            <img class="hidden sm:block w-[15rem]" :src="Venmo" alt="Kraken Logo" />
+            <img class=" w-[15rem]" :src="Venmo" alt="Kraken Logo" />
 
         </div>
         <p>Please donate if you can through our <a href="https://venmo.com/u/kraken_waterpolo" class="text-blue-500">Venmo</a></p>
