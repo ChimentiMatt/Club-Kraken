@@ -1,3 +1,3 @@
 <template>
-    Team!
+    About!
 </template>

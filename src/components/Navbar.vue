@@ -85,8 +85,7 @@
   
   const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Team', href: '/team' },
-    { name: 'About', href: '/about' },
-    { name: 'Schedule', href: '/schedule' },
+    { name: 'Donate', href: '/donate' },
+    // { name: 'About', href: '/about' },
   ]
   </script>
