@@ -25,7 +25,7 @@
             </div>
 
             <div class="flex justify-center">
-                <img :src="Stock1" class="h-[20rem] mt-[2rem] md:mt-[5rem]" />
+                <img :src="Stock1" class="md:h-[30rem] h-[10rem] mt-[2rem] md:mt-[5rem]" />
             </div>
 
         </div>
