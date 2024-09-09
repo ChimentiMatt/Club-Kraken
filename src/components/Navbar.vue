@@ -1,6 +1,6 @@
 <template>
     <Disclosure as="nav" class="bg-gray-800" v-slot="{ open }">
-      <div class="mx-auto max-w-7xl  sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="relative flex h-16 items-center ">
           <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
             
@@ -11,7 +11,7 @@
               <Bars3Icon v-if="!open" class="block h-6 w-6" aria-hidden="true" />
               <XMarkIcon v-else class="block h-6 w-6" aria-hidden="true" />
               <div class="w-screen absolute left-0">
-                <h1 class="text-white font-bold">Club Kraken Water Polo</h1>
+                <h1 class="text-white font-bold text-[1.5rem]">Club Kraken Water Polo</h1>
               </div>
 
             </DisclosureButton>
@@ -24,10 +24,10 @@
             <div class="hidden sm:ml-6 sm:block">
               <div class="flex space-x-4" >
                 <div class="flex items-center">
-                  <h1 class="text-white font-bold text-center ">Club Kraken Water Polo</h1>
+                  <h1 class="text-white font-bold text-center text-[2rem] mr-[2rem]">Club Kraken Water Polo</h1>
                 </div>
-                <div v-for="item in navigation" :key="item.name">
-                  <RouterLink :to="item.href" class="text-white rounded-md px-3 py-2 m-2 text-sm font-medium w-[4rem] text-center">
+                <div v-for="item in navigation" :key="item.name" class="flex">
+                  <RouterLink :to="item.href" class="text-white rounded-md px-3 py-2 m-2 text-sm font-medium text-center">
                       {{ item.name }}
                   </RouterLink>
                 </div>
