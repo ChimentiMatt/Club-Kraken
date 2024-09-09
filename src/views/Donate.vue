@@ -2,7 +2,7 @@
     <div class="">
 
         <h1 class="text-[3rem] pl-10 mt-[5rem]"> <strong>We are a non-profit organization ran by volunteers</strong> </h1>
-        <h1 class="text-[2rem] pl-10 ">Donations and sponsorships help us with basic pool time rentals 🏊, gear replacements, youth equipment 🤽‍♂️, tournaments📆, and more 😊.</h1>
+        <h1 class="text-[2rem] pl-10 ">Donations and sponsorships help us with basic pool time rentals 🏊, gear replacements 🔧, youth equipment 🤽‍♂️, tournaments📆, and more 😊.</h1>
         
         <div class="flex flex-col p-2 mb-[10rem] text-center text-[2rem]">
             <div class="flex justify-center mt-[5rem]">
