@@ -18,9 +18,13 @@
                 <h1 class="text-white mt-[2rem] md:mt-[2rem] font-bold mb-[.5rem]">Upcoming Sundays </h1>
                 <div class="">
                     <p class="text-white">📅 9/15</p>
+                    <p class="text-white">📅 9/29</p>
                     <p class="text-white">📅 10/13</p>
+                    <p class="text-white">📅 10/27</p>
                     <p class="text-white">📅 11/10</p>
+                    <p class="text-white">📅 11/24</p>
                     <p class="text-white">📅 12/08</p>
+                    <p class="text-white">📅 12/22</p>
                 </div>
             </div>
 
