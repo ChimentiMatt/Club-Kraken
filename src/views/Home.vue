@@ -17,16 +17,13 @@
             <div class="">
                 <h1 class="text-white mt-[2rem] md:mt-[2rem] font-bold mb-[.5rem]">Upcoming Sundays </h1>
                 <div class="">
-                    <!-- <p class="text-white">📅 9/15</p>
-                    <p class="text-white">📅 9/29</p>
-                    <p class="text-white">📅 10/13</p>
-                    <p class="text-white">📅 10/27</p>
-                    <p class="text-white">📅 11/10</p>
-                    <p class="text-white">📅 11/24</p>
-                    <p class="text-white">📅 12/08</p>
-                    <p class="text-white">📅 12/22</p> -->
-                    <p class="text-white">👋 We are currently taking October and November off for the Forest Grove High School Season</p>
-                    <a class="text-blue-500" href="https://www.maxpreps.com/or/forest-grove/forest-grove-vikings/water-polo/" target="_blank">Forest Grove High School Water Polo</a>
+                    <!-- <p class="text-white">📅 9/15</p> -->
+                    <p class="text-white">📅 2/16</p>
+                    <p class="text-white">📅 3/2</p>
+                    <p class="text-white">👋 The Forest Grove Aquatic center will be close for maintenance between March 3rd until June 2nd. After which time new hours will be posted.</p>
+                    <!-- <a class="text-blue-500" href="https://www.maxpreps.com/or/forest-grove/forest-grove-vikings/water-polo/" target="_blank">Forest Grove High School Water Polo</a> -->
+                    <a class="text-blue-500" href="https://www.forestgrove-or.gov/698/Aquatic-Center-Maintenance-Closure" target="_blank">Aquatic Center Maintenance Closure
+                    </a>
 
                     <p></p>
                 </div>
