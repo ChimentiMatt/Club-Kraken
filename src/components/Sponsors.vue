@@ -22,6 +22,8 @@ import Pink from '../assets/pinkspoon.png';
 import Fitness from '../assets/fitness.png';
 import Fgll from '../assets/fgll.png';
 import Kopp from '../assets/kopp.png';
+import Gov from '../assets/giv.png'
+import Braces from '../assets/braces.png'
 
 export default {
   setup() {
@@ -29,8 +31,10 @@ export default {
 
     // Use the imported images in an array
     const images = [
-      EmeraldFence,
+      Gov,
+      Braces,
       Beyond,
+      EmeraldFence,
       Jill,
       Joe,
       Pink,

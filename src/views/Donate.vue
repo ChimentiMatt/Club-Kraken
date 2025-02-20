@@ -28,6 +28,9 @@
             <h1 class="mt-[7rem] mb-[1rem] font-bold">Thank you to  our sponsors!</h1>
             
             <div class="md:text-[2rem] text-[1.5rem] flex flex-col">
+                <a href="https://www.facebook.com/giovannak1/" target="_blank" class="text-blue-500">Giovanna Maldonado </a>
+                <a href="https://www.smileforbraces.com/" target="_blank" class="text-blue-500">Braces By Dr Brekke Orthodontics</a>
+
                 <a href="https://www.emeraldfdc.com/" target="_blank" class="text-blue-500">Emerald Fence and Deck</a>
                 <a href="https://www.facebook.com/BeyondEtched/" target="_blank" class="text-blue-500">Beyond Etched</a>
                 <a href="https://www.statefarm.com/agent/us/or/forest-grove/jill-verboort-r9n5q4t4rak" target="_blank" class="text-blue-500">Jill Verboort / State Farm</a>

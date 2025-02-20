@@ -18,8 +18,7 @@
           </div>
           <img class="hidden sm:block h-[2rem]" :src="Kraken" alt="Kraken Logo" />
           <div class="flex align-center items-center justify-center sm:items-stretch sm:justify-start ">
-            <!-- <div class="flex flex-shrink-0 items-center">
-            </div> -->
+            <!-- <div class="flex flex-shrink-0 items-center"></div> -->
 
             <div class="hidden sm:ml-6 sm:block">
               <div class="flex space-x-4" >
